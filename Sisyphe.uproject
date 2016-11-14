@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.10",
+	"EngineAssociation": "4.11",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -51,6 +51,10 @@
 		{
 			"Name": "GearVR",
 			"Enabled": false
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true
 		}
 	]
 }
